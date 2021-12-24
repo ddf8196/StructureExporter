@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StructureExporter</string>
+	<string name="failed_to_get_world">获取世界失败</string>
+	<string name="failed_to_open_db">打开数据库失败</string>
+	<string name="failed_to_create_file">创建文件失败:&#160;%1$s</string>
+	<string name="failed_to_open_output_stream">打开输出流失败:&#160;%1$s</string>
+	<string name="failed_to_save_structure">保存结构失败:&#160;%1$s</string>
+	<string name="world_name">世界名:&#160;</string>
+	<string name="world_dir_path">路径:&#160;</string>
+	<string name="saved_structure">已保存的结构</string>
+	<string name="export">导出</string>
+	<string name="confirm">确定</string>
+	<string name="cancel">取消</string>
+	<string name="export_structure">导出&#160;%1$s</string>
+	<string name="please_choose_save_path">请选择保存位置</string>
+	<string name="file_name">文件名</string>
+	<string name="please_input_file_name">请输入文件名</string>
+	<string name="please_wait">请稍后</string>
+	<string name="loading_structures">正在加载已保存的结构……</string>
+	<string name="saving_structure">正在保存结构……</string>
+	<string name="structure_has_been_saved_to">结构已保存至%1$s</string>
+	<string name="warning">警告</string>
+	<string name="warning_content">使用本工具前请务必备份存档，以避免存档损坏造成损失</string>
+	<string name="select_target_world">选择目标存档</string>
+	<string name="about">关于</string>
+	<string name="about_content"></string>
+</resources>

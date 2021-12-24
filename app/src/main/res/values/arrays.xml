@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="export_structure_dialog_items">
+        <item>导出为.mcstructure文件</item>
+        <item>导入其他存档</item>
+    </string-array>
+</resources>
